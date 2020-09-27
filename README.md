@@ -28,6 +28,7 @@ Botu eklemek için [buraya](https://discord.com/oauth2/authorize?client_id=71822
 |`+sıradakiler`|Sıradaki şarkıları gösterir|`+queue` `+q`|
 |`+çalan`|Çalan şarkıyı gösterir|`+np`|
 |`+ses`|Ses seviyesini görmenizi ve değiştirmenizi sağlar|`+volume` `+v`|
+|`+arama`|**Youtube**, veya **SoundCloud** platformlarından arama yapar dilerseniz botta çalar|`+search`|
 
 ## Genel Komutlar
 |Komut|Komut Açıklama|Alternatif Takma Adlar|
